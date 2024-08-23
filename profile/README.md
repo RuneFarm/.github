@@ -1,7 +1,7 @@
 <div align="center">
   <br>
 
-  <img src=".erb/img/logo.png" width="60%" />
+  <img src="logo.png" width="60%" />
 
   <br>
   <br>
