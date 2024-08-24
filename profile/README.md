@@ -15,7 +15,9 @@
 
 </div>
 
-Hey there 👋 welcome to Arken Engineering, an initiative to build open gaming systems, for use within the Arken Realms and beyond.
+Hey there 👋 welcome to Arken Engineering, an initiative to build open gaming systems.
+
+Arken innovations will be used within the Arken Realms, and beyond!
 
 # Arken Realms
 
