@@ -6,26 +6,16 @@
   <br>
   <br>
 
-  <h2><code>Arken: An Open & Distributed Gaming Network</code></h2>
+<h2><code>Building Open & Distributed Gaming Systems</code></h2>
     
   [![Button Website]][Website]
   [![Button Telegram]][Telegram]
-  
-  <br>
+  [![Button Discord]][Discord]
+<br><br>
 
-  <a href="http://discord.arken.gg">
-    <img src="https://img.shields.io/discord/857533189948964874.svg?style=for-the-badge&colorB=7581dc&logo=discord&logoColor=white">
-  </a>
-
-  <br>
-  <br>
-  
-  [![Join our Discord server!](https://invidget.switchblade.xyz/vMtb3WFfKZ)](https://discord.gg/vMtb3WFfKZ)
 </div>
 
-<br>
-
-Hey there 👋 Welcome to Arken Engineering, an initiative to build an open gaming platform, initiatially for use within the Arken Realms.
+Hey there 👋 welcome to Arken Engineering, an initiative to build open gaming systems, for use within the Arken Realms and beyond.
 
 # Arken Realms
 
@@ -49,6 +39,11 @@ Hey there 👋 Welcome to Arken Engineering, an initiative to build an open gami
 [![Badge License]][License]
 
 
+-----
+
+> [!NOTE]
+> Most of our products are built with Node v20
+
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 --->
 
 [License]: LICENSE
@@ -58,6 +53,7 @@ Hey there 👋 Welcome to Arken Engineering, an initiative to build an open gami
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮   Quicklinks   🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 --->
 
 [Telegram]: https://telegram.arken.gg
+[Discord]: https://discord.arken.gg
 [Website]: https://arken.gg
 [Legacy]: https://swap.arken.gg
 [Usage]: https://docs.arken.gg
@@ -73,8 +69,7 @@ Hey there 👋 Welcome to Arken Engineering, an initiative to build an open gami
 [Button Usage]: https://img.shields.io/badge/Usage-992cb3?style=for-the-badge
 [Button Demo]: https://img.shields.io/badge/Demo-528116?style=for-the-badge
 [Button Beta]: https://img.shields.io/badge/Beta-bb044f?style=for-the-badge
-[Button Arken Telegram]: https://img.shields.io/badge/Arken-Telegram-bb044f?style=for-the-badge
-[Button Arken Discord]: https://img.shields.io/badge/Arken-Discord-bb044f?style=for-the-badge
+[Button Discord]: https://img.shields.io/badge/💬-Discord-bb044f?style=for-the-badge
 [Button Arken Realms]: https://img.shields.io/badge/Arken-Realms-bb044f?style=for-the-badge
 [Button Return Portal]: https://img.shields.io/badge/Return-Portal-bb044f?style=for-the-badge
 [Button Arken Seer]: https://img.shields.io/badge/Arken-Seer-bb044f?style=for-the-badge
