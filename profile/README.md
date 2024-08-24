@@ -36,12 +36,39 @@ Arken innovations will be used within the Arken Realms, and beyond!
 - [Discord](https://discord.arken.gg/)
 
   
-## License
+<br />
+<details>
+  <summary>LICENSE</summary>
+  <p align="left"><br /> MIT License
+
+Copyright (c) 2024 Arken Technologies, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<img src="https://komarev.com/ghpvc/?username=arken-engineering&label=&color=0e75b6&style=flat" alt="arken-engineering" /> </p>
+</details>
 
 [![Badge License]][License]
 
 
 -----
+
 
 > [!NOTE]
 > Most of our products are built with Node v20
@@ -76,3 +103,4 @@ Arken innovations will be used within the Arken Realms, and beyond!
 [Button Return Portal]: https://img.shields.io/badge/Return-Portal-bb044f?style=for-the-badge
 [Button Arken Seer]: https://img.shields.io/badge/Arken-Seer-bb044f?style=for-the-badge
 [Button Arken Cerebro]: https://img.shields.io/badge/Arken-Cerebro-bb044f?style=for-the-badge
+
