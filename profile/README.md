@@ -6,7 +6,7 @@
   <br>
   <br>
 
-<h2><code>Building Open & Distributed Gaming Systems</code></h2>
+<h2><code>Open & Distributed Gaming Systems</code></h2>
     
   [![Button Website]][Website]
   [![Button Telegram]][Telegram]
@@ -15,9 +15,7 @@
 
 </div>
 
-Hey there 👋 welcome to Arken Engineering, an initiative to build open gaming systems.
-
-Arken innovations will be used within the Arken Realms, and beyond!
+Welcome to Arken, stay awhile and listen...
 
 # Arken Realms
 
@@ -98,7 +96,7 @@ SOFTWARE.
 [Button Usage]: https://img.shields.io/badge/Usage-992cb3?style=for-the-badge
 [Button Demo]: https://img.shields.io/badge/Demo-528116?style=for-the-badge
 [Button Beta]: https://img.shields.io/badge/Beta-bb044f?style=for-the-badge
-[Button Discord]: https://img.shields.io/badge/💬-Discord-bb044f?style=for-the-badge
+[Button Discord]: https://img.shields.io/discord/857533189948964874.svg?style=for-the-badge&colorB=7581dc&logo=discord&logoColor=white
 [Button Arken Realms]: https://img.shields.io/badge/Arken-Realms-bb044f?style=for-the-badge
 [Button Return Portal]: https://img.shields.io/badge/Return-Portal-bb044f?style=for-the-badge
 [Button Arken Seer]: https://img.shields.io/badge/Arken-Seer-bb044f?style=for-the-badge
