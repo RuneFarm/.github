@@ -148,7 +148,7 @@ SOFTWARE.
 
 <details>
   <summary>Binzy: The Potato Girl</summary>
-  Everything Arken Realms.
+  The historian and lorekeeper of everything Arken Realms.
   
   * [repo](https://github.com/arken-engineering/agent-binzy)
 </details>
