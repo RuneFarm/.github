@@ -161,8 +161,8 @@ SOFTWARE.
 </details>
 
 <details>
-  <summary>Emmet: The Lego Kid</summary>
-  Aggregates lego and finds deals.
+  <summary>Emmet: The Brick Kid</summary>
+  Aggregates brick information, prices, sentiment and finds deals.
   
   * [repo](https://github.com/arken-engineering/agent-emmet)
 </details>
