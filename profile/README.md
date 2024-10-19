@@ -91,7 +91,7 @@ SOFTWARE.
 </details>
 
 <details>
-  <summary>Seer: The Network Oracle</summary>  
+  <summary>Seer: The Oracle</summary>  
   
   * [repo](https://github.com/arken-engineering/seer)
 </details>
