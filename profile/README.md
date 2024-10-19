@@ -74,7 +74,7 @@ SOFTWARE.
 </details>
 
 <details>
-  <summary>Cerebro: The Agent Swarm</summary>
+  <summary>Cerebro: The Brain</summary>
   
   * [cerebro](https://github.com/arken-engineering/cerebro)
   * [cerebro-protocol](https://github.com/arken-engineering/cerebro-protocol)
