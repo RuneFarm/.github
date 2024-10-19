@@ -140,8 +140,8 @@ SOFTWARE.
 </details>
 
 <details>
-  <summary>Ash: The Pokemon Kid</summary>
-  Aggregates pokemon cards and finds deals.
+  <summary>Ash: The Card Kid</summary>
+  Aggregates card information, prices and finds deals.
   
   * [repo](https://github.com/arken-engineering/agent-ash)
 </details>
